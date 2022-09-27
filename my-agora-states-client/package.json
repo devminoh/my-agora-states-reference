@@ -1,6 +1,6 @@
 {
   "name": "my-agora-states-client",
-  "homepage": "https://devminoh.github.io",
+  "homepage": "https://devminoh.github.io/fe-sprint-my-agora-states-server-reference/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
